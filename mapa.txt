@@ -1,0 +1,11 @@
+opcoes-dividendos-app/
+│
+├── data/               # Para arquivos de dados, como o banco de dados SQLite
+├── src/                # Código fonte do aplicativo
+│   ├── gui.py          # Interface gráfica
+│   ├── db.py           # Funções de banco de dados
+│   ├── api.py          # Integrações com APIs externas
+│   ├── analysis.py     # Cálculos e análises
+│   └── main.py         # Arquivo principal para rodar o app
+├── requirements.txt    # Dependências do projeto
+└── README.md           # Documentação do projeto
